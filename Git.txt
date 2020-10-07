@@ -13,3 +13,13 @@ git remote add origin [repository url]
 git push -u origin master - from local repository to remote
 git pull origin master - from remote to local
 git clone [repository url]
+
+_______________________________________________________________________
+
+1.git add .
+2. git status
+3. git commit -m ""
+4. git remote add origin link
+5.git push origin master
+6. git branch test
+7. git checkout test
