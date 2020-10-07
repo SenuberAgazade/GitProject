@@ -1,0 +1,15 @@
+cd simple-git-demo
+git init 
+git add demo.txt
+git add .
+git commit -m "Initial Commit"
+git status
+git log
+git branch test
+git checkout test
+git branch
+git merge test
+git remote add origin [repository url]
+git push -u origin master - from local repository to remote
+git pull origin master - from remote to local
+git clone [repository url]
